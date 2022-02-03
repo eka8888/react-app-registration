@@ -1,0 +1,29 @@
+* {
+    background-color: rgba(255, 247, 247, 0.938)
+}
+
+.form-input {
+    width: 15%;
+    height: 1.5rem;
+    margin: 0.3rem;
+}
+
+.form-input1 {
+    margin-bottom: 0.3rem;
+}
+
+.form-input-btn {
+    width: 7.8%;
+    height: 1.8rem;
+    background-color: darkgrey;
+}
+
+.form-input::placeholder {
+    color: #595959;
+    font-size: 0.8rem;
+}
+
+.form-inputs p {
+    font-size: 0.8rem;
+    color: #f00e0e;
+}
